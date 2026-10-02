@@ -1,0 +1,16 @@
+numpy
+pandas
+scipy
+rasterio
+geopandas
+shapely
+pyproj
+pyogrio
+exactextract
+scikit-image
+scikit-learn
+opencv-python
+matplotlib
+Pillow
+xgboost
+skyfield
